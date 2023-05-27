@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* START CSS AREA FOOTER */
+footer {
+    position: absolute;
+    width: 1349px;
+    height: 80px;
+    left: 0px;
+    top: 1570px;
+    margin: 4px 0px;
+    background: #003049;
+}
+
+.jam_digital {
+    overflow: hidden;
+}
+
+.kotak {
+    float: left;
+    width: 70px;
+    height: auto;
+}
+
+.jam_digital p {
+    color: #f7ede2;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 25px;
+    font-weight: 600;
+}
+
+.jam_digital i {
+    font-size: 26px;
+    text-decoration: none;
+    color: #f7ede2;
+    position: absolute;
+    display: flex;
+    overflow: hidden;
+    left: 85%;
+    top: 35%;
+}
+
+/* AKHIR CSS AREA FOOTER */
